@@ -381,8 +381,8 @@
         // Initialize ComfyJS and fetch third-party emotes
         let thirdPartyEmotes = {};
 
-        // Change to your channel name
-        fetchThirdPartyEmotes('callmeCog').then(emotes => {
+        // >>>CHANGE TO YOUR CHANNEL NAME<<<
+        fetchThirdPartyEmotes('YOURCHANNELHERE').then(emotes => {
             thirdPartyEmotes = emotes;
         }).catch(error => {
             console.error('Failed to fetch third-party emotes:', error);
@@ -433,7 +433,8 @@
             }, messageDuration);
         };
 
-        ComfyJS.Init('callmeCog');
+        // >>>CHANGE TO YOUR CHANNEL NAME<<<
+        ComfyJS.Init('YOURCHANNELHERE');
     </script>
 </body>
 </html>
