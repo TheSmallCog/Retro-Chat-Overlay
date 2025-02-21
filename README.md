@@ -37,11 +37,11 @@ Open the <code>index.html</code> file and click on the small pencil icon in the 
 
 Once you're in editing mode, replace all instances of <code>'YOURCHANNELHERE'</code> with your Twitch username. There are two places where you need to make this change:
 
-  >In the fetchThirdPartyEmotes function call at line 390:
+  >In the fetchThirdPartyEmotes function call at line 635:
 
 <code> fetchThirdPartyEmotes('YOURCHANNELHERE').then(emotes => { </code>
   
-  >In the ComfyJS.Init function call at line 442:
+  >In the ComfyJS.Init function call at line 686:
 
 <code> ComfyJS.Init('YOURCHANNELHERE'); </code>
 
