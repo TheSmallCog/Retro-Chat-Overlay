@@ -7,6 +7,7 @@ A simple, customizable Twitch chat overlay that you can easily use in OBS. The o
 - Third-Party Emotes: Supports BTTV and FFZ emotes.
 - Animated Messages: Comes with a basic but snappy slide animation.
 - Screen-reader compatibility.
+- Keyboard-only friendly.
 - Customizable Text and Outline Colors: Adjust the text color, outline color, and outline thickness via a small on-screen collapsable menu.
 - Persistent Preferences: Your text customization preferences are saved in your browser's local storage.
 
