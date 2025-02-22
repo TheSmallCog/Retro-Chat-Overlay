@@ -47,13 +47,9 @@ Once you're in editing mode, replace all instances of <code>'YOURCHANNELHERE'</c
 
 Don't forget to save the file when you're done!
 
-<h3>Step 3: Host the Overlay</h3>
+<h3>Get Your Browser Link</h3>
 
-<b>To use this overlay in OBS or another streaming software as a browser source, you need to host the <code>index.html</code> file. You can use any local server or hosting service.</b>
-
-This project is meant to be approachable, so I'm going to assume if you want to host it on your own you have the ability to do so or are okay with figuring it out.
-https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/default%20customization.png
-<b>For the rest of you, that free GitHub account you made will let you host a free webpage for the forked repository, courtesy of GitPages.</b>
+<b>To use this overlay in OBS or another streaming software as a browser source, you need to host the <code>index.html</code> file. You can host it using various methods, however that free GitHub account you made will let you host a free webpage for the forked repository, courtesy of GitPages.</b>
 
 Click "Settings" at the top right of the depository
 
@@ -73,7 +69,7 @@ Click the "Save" button
 
 After you've saved, go back to the main page of the repository and click on the "Actions" tab
 
-<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Actions%20tab.png"></src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Actions%20tab.png"></src>ll
 
 This page will show the progess of any actions you take regarding the repository. 
 Right now, the only thing you should see is the status of your deployment. 
