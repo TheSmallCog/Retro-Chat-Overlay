@@ -21,7 +21,7 @@ This can be done using Github's web broswer interface, all you need is a GitHub 
 
 Locate the "Fork" button at the upper-right corner of the repository
 
-<img src>PLACEHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Fork%20Button.png"></src>
 
 Click it
 
