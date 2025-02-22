@@ -60,7 +60,6 @@ Click "Pages" on the left menu
 <img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Pages%20button.png"></src>
 
 Navigate to the "Branch" section and click "None", then Select "Main" in the drop-down menu
-https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/default%20customization.png
 <img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Choose%20Branch.png"></src>
 
 Click the "Save" button
