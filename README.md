@@ -25,7 +25,7 @@ Locate the "Fork" button at the upper-right corner of the repository
 
 Click it
 
-<img src>PLACEHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Create%20Fork.png"></src>
 
 Rename the repository and adjust the description as desire, then click the "Create Fork" button. It will take some time to load and then you'll have a brand-new forked repository. 
    
@@ -33,7 +33,7 @@ Rename the repository and adjust the description as desire, then click the "Crea
 
 Open the <code>index.html</code> file and click on the small pencil icon in the upper-right corner to edit the file
 
-<img src>PLACEHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Edit%20Button.png"></src>
 
 Once you're in editing mode, replace all instances of <code>'YOURCHANNELHERE'</code> with your Twitch username. There are two places where you need to make this change:
 
@@ -52,69 +52,62 @@ Don't forget to save the file when you're done!
 <b>To use this overlay in OBS or another streaming software as a browser source, you need to host the <code>index.html</code> file. You can use any local server or hosting service.</b>
 
 This project is meant to be approachable, so I'm going to assume if you want to host it on your own you have the ability to do so or are okay with figuring it out.
-
+https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/default%20customization.png
 <b>For the rest of you, that free GitHub account you made will let you host a free webpage for the forked repository, courtesy of GitPages.</b>
 
-Click the 3 dot icon next to "Insights" at the top-right of the repository, then click "Settings" in the drop-down menu
+Click "Settings" at the top right of the depository
 
-<img src>PLACHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/settings%20button.png"></src>
 
 Click "Pages" on the left menu
 
-<img src>PLACEHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Pages%20button.png"></src>
 
 Navigate to the "Branch" section and click "None", then Select "Main" in the drop-down menu
 
-<img src>PLACEHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Choose%20Branch.png"></src>
 
 Click the "Save" button
 
-<img src>PLACEHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Save%20Branch.png"></src>
 
 After you've saved, go back to the main page of the repository and click on the "Actions" tab
 
-<img src>PLACEHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Actions%20tab.png"></src>
 
 This page will show the progess of any actions you take regarding the repository. 
 Right now, the only thing you should see is the status of your deployment. 
 
-<img src>PLACEHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Deployed%20Checkmark.png"></src>
 
 If the checkmark is green, congratulations! You have successfully deployed the GitHub page and are ready to put the URL into OBS as a browser source.
-
+https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/default%20customization.png
 <h3>Step 4: Add the Overlay to OBS</h3>
 
 Open OBS and go to the scene where you want to add the chat overlay
-
-<img src>PLACEHOLDER</src>
-
 Click the + button under "Sources" and select Browser
-
-<img src>PLACEHOLDER</src>
 
 Name the source (eg."Retro Chat Overlay")
 
-<img src>PLACEHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Name%20Source.png"></src>
 
 In the "URL" field, enter the URL of your newly created GitHub deployment (not the page, the deployment)
 
-<img src>PLACEHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/browser%20link.png"></src>
 
-Adjust width and height as needed for your particular stream. If you don't want the collapsable menu to appear on screen, you can move it off-screen on the right or to the bottom, as there's enough padding either way for you to hide it while still being able to see the chat
+Adjust width and height as needed for your particular stream. If you don't want the collapsable menu to appear on screen, I recommend putting it just off of the canvas in OBS, there's enough padding that the messages will still show in their entirety.
 
-<img src>PLACEHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/showing%20padding%20for%20menu.png"></src>
 
 <h3>Step 5: Customize the Overlay</h3>
 
 In OBS, right-click the browser source and select Interact.
-
-<img src>PLACEHOLDER</src>
-
 Click on the gear icon in the collapsable menuu to customize the text color, outline color, and outline thickness.
 
-<img src>PLACEHOLDER</src>
+<img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Menu%20button.png"></src>
+<img src ="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/default%20customization.png"></src>
 
-Your preferences will be saved automatically.
+Your preferences will be saved automatically. Whenever you want to save a specific text palette just hit the "Save Palette" button and type in a name and hit 'Enter'. Once saved, you can hit the "Load Palette" button to bring up a dropdown menu of all your saved palettes, and then select the one you want at any time.
 
 
 <h2>Credits</h2>
