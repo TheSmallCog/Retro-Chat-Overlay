@@ -76,7 +76,7 @@ Right now, the only thing you should see is the status of your deployment.
 <img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Deployed%20Checkmark.png"></src>
 
 If the checkmark is green, congratulations! You have successfully deployed the GitHub page and are ready to put the URL into OBS as a browser source.
-https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/default%20customization.png
+
 <h3>Step 4: Add the Overlay to OBS</h3>
 
 Open OBS and go to the scene where you want to add the chat overlay
