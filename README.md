@@ -100,6 +100,7 @@ In OBS, right-click the browser source and select Interact.
 Click on the gear icon in the collapsable menu to customize the text color, outline color, and outline thickness.
 
 <img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Menu%20button.png"></src>
+
 <img src ="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/default%20customization.png"></src>
 
 Your preferences will be saved automatically. Whenever you want to save a specific text palette just hit the "Save Palette" button and type in a name and hit 'Enter'. Once saved, you can hit the "Load Palette" button to bring up a dropdown menu of all your saved palettes, and then select the one you want at any time.
