@@ -64,7 +64,7 @@ Click "Pages" on the left menu
 <img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Pages%20button.png"></src>
 
 Navigate to the "Branch" section and click "None", then Select "Main" in the drop-down menu
-
+https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/default%20customization.png
 <img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Choose%20Branch.png"></src>
 
 Click the "Save" button
@@ -102,7 +102,7 @@ Adjust width and height as needed for your particular stream. If you don't want 
 <h3>Step 5: Customize the Overlay</h3>
 
 In OBS, right-click the browser source and select Interact.
-Click on the gear icon in the collapsable menuu to customize the text color, outline color, and outline thickness.
+Click on the gear icon in the collapsable menu to customize the text color, outline color, and outline thickness.
 
 <img src="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/Menu%20button.png"></src>
 <img src ="https://raw.githubusercontent.com/TheSmallCog/Retro-Chat-Overlay/refs/heads/main/Tutorial%20Images/default%20customization.png"></src>
