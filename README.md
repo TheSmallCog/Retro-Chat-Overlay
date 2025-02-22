@@ -47,7 +47,7 @@ Once you're in editing mode, replace all instances of <code>'YOURCHANNELHERE'</c
 
 Don't forget to save the file when you're done!
 
-<h3>Step 3:Get Your Browser Link</h3>
+<h3>Step 3: Get Your Browser Link</h3>
 
 <b>To use this overlay in OBS or another streaming software as a browser source, you need to host the <code>index.html</code> file. You can host it using various methods, however that free GitHub account you made will let you host a free webpage for the forked repository, courtesy of GitPages.</b>
 
